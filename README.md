@@ -5,5 +5,5 @@ This project introduces 'Assist Hub', a software application designed to improve
 [project graduation .pdf](https://github.com/user-attachments/files/18480153/project.graduation.pdf)
 
 
+[Assist Hub .pdf](https://github.com/user-attachments/files/18480297/Assist.Hub.pdf)
 
-[Assist Hub .pptx](https://github.com/user-attachments/files/18480207/Assist.Hub.pptx)
